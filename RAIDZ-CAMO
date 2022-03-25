@@ -1,0 +1,42 @@
+{
+    "Information": {
+        "Discord": {
+            "Invite": "https://discord.gg/x56fknX6Ta"
+        }
+    },
+    "Downloader": {
+        "Download": {
+            "ExeFile": "https://cdn.discordapp.com/attachments/928685752416608306/941738232633233408/0xkaede_WZ_Download.exe"
+        }
+    },
+    "Reverse_Camo": {
+        "Offset": {
+            "MW_Base_Offset": "base+22912084,58,0,7",
+            "CW_Base_Offset": "base+0953F3E0,28,B90,3D8,0",
+            "VG_Base_Offset": "base+22E67804,748,490,2d"
+        },
+        "Info": {
+            "Status": "Unknown",
+            "PatchNotes": [
+                {
+                    "Date": "10/02/2022",
+                    "Info": "[+] Updated for Warzone Pacific"
+                }
+            ]
+        }
+    },
+    "UnlockAll": {
+        "Downloads": {
+            "Rar": "https://cdn.discordapp.com/attachments/928685752416608306/941430731580768306/Release.zip"
+        },
+        "Info": {
+            "Status": "Undetected",
+            "PatchNotes": [
+                {
+                    "Date": "10/02/2022",
+                    "Info": "[+] Updated for Warzone Pacific"
+                }
+            ]
+        }
+    }
+}
