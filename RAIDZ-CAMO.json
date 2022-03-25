@@ -1,7 +1,7 @@
 {
     "Information": {
         "Discord": {
-            "Invite": "https://discord.gg/x56fknX6Ta"
+            "Invite": "https://discord.gg/z3n"
         }
     },
     "Downloader": {
@@ -16,11 +16,11 @@
             "VG_Base_Offset": "base+22E67804,748,490,2d"
         },
         "Info": {
-            "Status": "Unknown",
+            "Status": "Detected",
             "PatchNotes": [
                 {
                     "Date": "10/02/2022",
-                    "Info": "[+] Updated for Warzone Pacific"
+                    "Info": "[+] Not Updated!"
                 }
             ]
         }
